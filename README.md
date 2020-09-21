@@ -1,7 +1,8 @@
 # toetactic
 
-Tic-tac-toe passive experiment
+Tic-tac-toe passive communication experiment
 
+Visit [https://toetactic.surge.sh](https://toetactic.surge.sh) to play
 
 ## Get started
 
